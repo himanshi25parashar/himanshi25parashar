@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @himanshi25parashar
+- 👋 Hi, I’m himanshi sharma
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning full-stack-developer
 - 💞️ I’m looking to collaborate with developer
