@@ -18,7 +18,7 @@
 
 
 
-- 📫 How to reach me ...
+- 📫 How to reach me himanshi25051998@gmail.com
 
 <!---
 himanshi25parashar/himanshi25parashar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
